@@ -42,3 +42,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+for CI/CD npm install -g yarn yarn build npm install --global surge surge ./build
+
+Aman-TimerApp-7b.surge.sh
+// 0ef6d72d174f66164b4b3d6e9ebce687
